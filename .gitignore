@@ -1,0 +1,5 @@
+FileS WE dont want git to track and that is not part of our project
+.classpath
+.project
+node_modules
+
